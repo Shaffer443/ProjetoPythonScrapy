@@ -31,13 +31,19 @@ Por isso, mais simples usar algo que já foi criado, facilitando nosso trabalho.
 Você precisa seqguir uma estrutura para atingir os resulatdos, da codificação no framework, por isso, bom ler a sua 
 finalidade e seus passos, para que se consiga tirar o melhor proveito do mesmo.
 
-- Inserir liks dos Vídeos:
+**Inserir liks dos Vídeos:**
 
-- Informações de instalação e configurações da biblioteca Scrapy:
+- https://www.youtube.com/watch?v=QdLgNr1mKQU
 
-!pip install scrapy (caso não enteja instalado)
+**Descrição em texto**
 
-import scrapy (para uso da biblioteca)
+- https://www.hashtagtreinamentos.com/webscraping-de-1000-paginas-no-python
+
+**Informações de instalação e configurações da biblioteca Scrapy**
+
+- !pip install scrapy (caso não enteja instalado)
+
+- import scrapy (para uso da biblioteca)
 
 ### Usando conda
 
