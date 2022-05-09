@@ -37,7 +37,7 @@ finalidade e seus passos, para que se consiga tirar o melhor proveito do mesmo.
 
 **Descrição em texto**
 
-- https://www.hashtagtreinamentos.com/webscraping-de-1000-paginas-no-python
+- https://www.hashtagtreinamentos.com/webscraping-no-python
 
 **Informações de instalação e configurações da biblioteca Scrapy**
 
