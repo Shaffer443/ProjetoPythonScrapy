@@ -1,6 +1,6 @@
 ## Entendo o Scrapy
 
-Premissa da biblioteca(API) - Pegar informações web.
+<b>Premissa</b> da biblioteca(API) - Pegar informações de uma web. Alvo para dasdos de filmes.
 
 <mark>OBS:</mark> No vídeo ele está usando python3.6, possa ser que exista uma versão mais atualizada sendo usada.
 
